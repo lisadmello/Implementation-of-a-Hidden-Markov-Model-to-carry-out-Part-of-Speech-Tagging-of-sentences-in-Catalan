@@ -1,0 +1,1 @@
+# Implementation-of-a-Hidden-Markov-Model-to-carry-out-Part-of-Speech-Tagging-of-sentences-in-Catalan
